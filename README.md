@@ -15,4 +15,4 @@ Este é um sistema bancário simples que permite ao usuário realizar operaçõe
 - O saldo e o histórico são atualizados dinamicamente a cada transação.  
 - O sistema controla o número de saques permitidos por dia.  
 
-Este projeto é uma base simples para aplicações bancárias e pode ser expandido com novas funcionalidades no futuro! 🚀  
+Este projeto é uma base simples para aplicações bancárias e será  expandido com novas funcionalidades no futuro! 🚀  
