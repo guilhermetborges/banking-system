@@ -47,3 +47,4 @@ SELECIONE UMA OPÇÃO
         break
     else:
         print('Opção inválida')
+        print('Por favor, escolha uma opção válida.')
